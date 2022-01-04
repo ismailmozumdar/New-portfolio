@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.Wellcome-setiom{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    display: flex;
+}
+.Wellcome {
+    width: 50%;
+    padding-left: 5%; 
+}
+.Wellcome img{
+    width: 80%;
+}
+h1{
+    font-size:50px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Pushster', cursive;
+}
+h3{
+    color: rgb(202, 21, 1);
+}
+span{
+    color: salmon;
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient( rgb(241, 78, 78), rgb(255, 29, 29));
+    padding: 10px 40px;
+    font-size: 18px;
+}
